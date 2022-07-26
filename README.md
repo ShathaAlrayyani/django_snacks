@@ -15,7 +15,6 @@ PORT - Port Number
 8000 
 
 
-
 How to initialize/run your application?
 
 python manage.py runserver 
